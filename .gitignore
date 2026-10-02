@@ -1,0 +1,20 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+
+# Node / React (ileride)
+node_modules/
+dist/
+build/
+.env
+.env.local
+
+# macOS
+.DS_Store
+
+# IDE
+.vs/
+.vscode/*
+!.vscode/extensions.json
